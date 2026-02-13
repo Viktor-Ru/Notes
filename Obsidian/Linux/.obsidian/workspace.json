@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Команды Linux.md",
+                "file": "Файлы и директории.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды Linux"
+              "title": "Файлы и директории"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Команды Linux.md",
+                "file": "Файлы и директории.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Команды Linux"
+              "title": "Обратные ссылки для Файлы и директории"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Команды Linux.md",
+                "file": "Файлы и директории.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Команды Linux"
+              "title": "Исходящие ссылки из Файлы и директории"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Команды Linux.md",
+                "file": "Файлы и директории.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Команды Linux"
+              "title": "Структура Файлы и директории"
             }
           }
         ]
@@ -201,6 +201,7 @@
   },
   "active": "85e9c2d2ecf9812f",
   "lastOpenFiles": [
-    "Команды Linux.md"
+    "Команды Linux.md",
+    "Файлы и директории.md"
   ]
 }
