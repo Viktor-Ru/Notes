@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "Команды Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Добро пожаловать"
+              "title": "Команды Linux"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "Команды Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Добро пожаловать"
+              "title": "Обратные ссылки для Команды Linux"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "Команды Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Добро пожаловать"
+              "title": "Исходящие ссылки из Команды Linux"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "Команды Linux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Добро пожаловать"
+              "title": "Структура Команды Linux"
             }
           }
         ]
@@ -201,6 +201,6 @@
   },
   "active": "85e9c2d2ecf9812f",
   "lastOpenFiles": [
-    "Добро пожаловать.md"
+    "Команды Linux.md"
   ]
 }
